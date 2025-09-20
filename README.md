@@ -33,3 +33,29 @@ The next parts will explore:
 - Error handling
 - DOM manipulation
 - Advanced JavaScript concepts
+
+---
+
+## 📘 Part-2: JavaScript Control Flow & User Interaction
+
+This part focuses on **program flow control and user interaction** — covering how to make decisions in code, work with modern string formatting, and interact with users through browser dialogs.
+Essential for building interactive and dynamic JavaScript applications.
+
+### ✅ Topics Covered:
+- **templateLiterals** – Using modern string interpolation with backticks (`) and ${expressions} for cleaner string formatting.
+- **comparisonOperator** – Understanding comparison operators (`==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`) and their use in conditions.
+- **conditionalStatements** – Mastering `if`, `else if`, and `else` statements for decision-making in code.
+- **logicalOperator** – Working with `&&` (AND), `||` (OR), and `!` (NOT) to combine multiple conditions.
+- **truthy & falsy values** – Understanding which values JavaScript considers 'truthy' or 'falsy' in conditional contexts.
+- **switchStatement** – Using switch-case statements for multiple conditional branching.
+- **alert & prompts** – Interacting with users through browser dialogs using `alert()`, `prompt()`, and `confirm()`.
+
+---
+
+📌 **Note:** With Part-2 completed, we've covered control flow and user interaction.
+The next parts will explore:
+- Functions & Scope
+- Arrays & Objects
+- Error handling
+- DOM manipulation
+- Advanced JavaScript concepts
