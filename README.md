@@ -25,17 +25,6 @@ Essential for anyone starting their JavaScript journey or wanting to solidify th
 
 ---
 
-📌 **Note:** With Part-1 completed, we've covered the basic building blocks of JavaScript.  
-The next parts will explore:
-- Control flow (if/else, loops)
-- Functions
-- Arrays & Objects
-- Error handling
-- DOM manipulation
-- Advanced JavaScript concepts
-
----
-
 ## 📘 Part-2: JavaScript Control Flow & User Interaction
 
 This part focuses on **program flow control and user interaction** — covering how to make decisions in code, work with modern string formatting, and interact with users through browser dialogs.
@@ -52,10 +41,25 @@ Essential for building interactive and dynamic JavaScript applications.
 
 ---
 
-📌 **Note:** With Part-2 completed, we've covered control flow and user interaction.
-The next parts will explore:
+## 📘 Part-3: JavaScript Strings & Arrays
+
+This part dives into **string manipulation and array operations** — exploring how to work with text data efficiently and handle collections of data using arrays.
+Essential for managing and processing data structures in JavaScript applications.
+
+### ✅ Topics Covered:
+- **stringMethods** – Mastering built-in string manipulation methods like `slice()`, `split()`, `trim()`, `toLowerCase()`, `toUpperCase()`, and more.
+- **array** – Understanding array creation, accessing elements, and basic array operations.
+- **arrayMethods** – Working with essential array methods like `push()`, `pop()`, `shift()`, `unshift()`, `splice()`, `slice()`, and more.
+- **arrayReference** – Understanding how arrays are referenced in memory and the implications of array copying.
+- **constantArray** – Learning about array mutability with `const` declarations and its practical applications.
+- **nestedArray** – Working with multi-dimensional arrays and accessing nested array elements.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, and array operations.
+Future updates may include:
+- Objects & Properties
 - Functions & Scope
-- Arrays & Objects
 - Error handling
 - DOM manipulation
 - Advanced JavaScript concepts
