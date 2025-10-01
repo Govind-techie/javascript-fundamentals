@@ -71,9 +71,22 @@ Essential for automating repetitive tasks and processing collections of data eff
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, and loops.
+## 📘 Part-5: JavaScript Objects & Built-in Objects
+
+This part explores **object fundamentals and JavaScript's built-in objects** — covering how to create and work with objects, handle nested data structures, and utilize built-in JavaScript objects.
+Essential for organizing data and leveraging JavaScript's object-oriented features.
+
+### ✅ Topics Covered:
+- **objectLiterals** – Understanding object creation, properties, and methods using literal notation.
+- **nestedObject** – Working with complex object structures containing nested objects and arrays.
+- **arrayOfObject** – Managing collections of objects and accessing their properties.
+- **mathObject** – Exploring JavaScript's built-in Math object for mathematical operations.
+- **guessingGame** – Building a number guessing game utilizing Math objects and Math methods along with loops and conditional statements.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, and objects.
 Future updates will explore:
-- Objects & Properties
 - Functions & Scope
 - Error handling
 - DOM manipulation
