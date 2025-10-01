@@ -56,8 +56,23 @@ Essential for managing and processing data structures in JavaScript applications
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, and array operations.
-Future updates may include:
+## 📘 Part-4: JavaScript Loops & Iterations
+
+This part focuses on **program iterations and loop structures** — covering different ways to repeat code execution and iterate over data structures.
+Essential for automating repetitive tasks and processing collections of data efficiently.
+
+### ✅ Topics Covered:
+- **forLoop** – Understanding the traditional `for` loop structure and its components for controlled iterations.
+- **whileLoop** – Working with `while` loops for condition-based iterations.
+- **breakKeyword** – Using the `break` statement to control loop execution flow.
+- **LoopsOnArrays** – Applying loops to iterate through array elements and perform operations.
+- **forOfLoop** – Using the modern `for...of` loop for simpler array iterations.
+- **todoApp** – Building a console-based todo application using JavaScript logic.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, and loops.
+Future updates will explore:
 - Objects & Properties
 - Functions & Scope
 - Error handling
