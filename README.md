@@ -99,8 +99,21 @@ Essential for writing reusable, organized, and maintainable code.
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, and functions.
+## 📘 Part-7: JavaScript Advanced Concepts
+
+This part explores **advanced JavaScript features and error handling** — covering modern function syntax, the 'this' keyword, and error management.
+Essential for writing robust and modern JavaScript applications.
+
+### ✅ Topics Covered:
+- **thisKeyword** – Understanding the 'this' context and its behavior in different scenarios.
+- **tryAndCatch** – Implementing error handling using try-catch blocks for robust applications.
+- **arrowFunction** – Working with arrow functions and their special characteristics.
+- **setFunction** – Understanding Set objects and their methods for unique value collections.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, and error handling.
 Future updates will explore:
-- Error handling
 - DOM manipulation
 - Advanced JavaScript concepts
+- Asynchronous JavaScript
