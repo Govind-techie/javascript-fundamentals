@@ -81,13 +81,26 @@ Essential for organizing data and leveraging JavaScript's object-oriented featur
 - **nestedObject** – Working with complex object structures containing nested objects and arrays.
 - **arrayOfObject** – Managing collections of objects and accessing their properties.
 - **mathObject** – Exploring JavaScript's built-in Math object for mathematical operations.
-- **guessingGame** – Building a number guessing game utilizing Math objects and Math methods along with loops and conditional statements.
+- **guessingGame** – Building a number guessing game utilizing objects and Math methods.
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, and objects.
+## 📘 Part-6: JavaScript Functions & Scope
+
+This part explores **function fundamentals and scope concepts** — covering different ways to create and use functions, understanding variable scope, and working with higher-order functions.
+Essential for writing reusable, organized, and maintainable code.
+
+### ✅ Topics Covered:
+- **functions** – Understanding function declarations, parameters, and return values.
+- **scope** – Exploring global scope, function scope, and block scope in JavaScript.
+- **functionExpression** – Working with function expressions and anonymous functions.
+- **highOrderFunction** – Understanding functions that take other functions as arguments or return functions.
+- **methods** – Learning about object methods and their relationship with objects.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, and functions.
 Future updates will explore:
-- Functions & Scope
 - Error handling
 - DOM manipulation
 - Advanced JavaScript concepts
