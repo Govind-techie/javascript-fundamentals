@@ -112,8 +112,21 @@ Essential for writing robust and modern JavaScript applications.
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, and error handling.
+## 📘 Part-8: Modern JavaScript Features
+
+This part explores **modern JavaScript syntax and features** — covering advanced array operations, spread/rest operators, and destructuring.
+Essential for writing clean, concise, and modern JavaScript code.
+
+### ✅ Topics Covered:
+- **arrayMethods** – Working with modern array methods for data transformation and filtering.
+- **spread** – Using the spread operator (...) to expand arrays and objects.
+- **rest** – Understanding rest parameters for handling multiple function arguments.
+- **destructuring** – Leveraging array and object destructuring for cleaner variable assignments.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, and modern JavaScript features.
 Future updates will explore:
 - DOM manipulation
-- Advanced JavaScript concepts
 - Asynchronous JavaScript
+- Web APIs
