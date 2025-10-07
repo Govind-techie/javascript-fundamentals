@@ -125,8 +125,24 @@ Essential for writing clean, concise, and modern JavaScript code.
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, and modern JavaScript features.
+## 📘 Part-9: DOM Manipulation & Web APIs
+
+This part explores **Document Object Model (DOM) and web interactions** — covering element selection, content manipulation, and styling through JavaScript.
+Essential for creating dynamic and interactive web applications.
+
+### ✅ Topics Covered:
+- **DOM** – Understanding the Document Object Model and its tree structure.
+- **selectingElement** – Learning different methods to select HTML elements using JavaScript.
+- **settingContent** – Modifying element content using innerHTML, textContent, and innerText.
+- **manipulatingAttribute** – Working with element attributes through JavaScript.
+- **stylingAttribute** – Applying CSS styles dynamically using JavaScript.
+- **classListProperty** – Managing CSS classes with JavaScript's classList API.
+- **DOMManipulation** – Creating, modifying, and removing DOM elements dynamically.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, and DOM manipulation.
 Future updates will explore:
-- DOM manipulation
 - Asynchronous JavaScript
-- Web APIs
+- Advanced Web APIs
+- JavaScript Modules
