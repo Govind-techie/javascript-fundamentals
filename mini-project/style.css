@@ -1,0 +1,14 @@
+.container {
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+}
+
+.list {
+    background-color: purple;
+}
+
+li {
+    background-color: yellow;
+}
+

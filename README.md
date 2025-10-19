@@ -141,8 +141,37 @@ Essential for creating dynamic and interactive web applications.
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, and DOM manipulation.
+## 📘 Part-10: DOM Events & Event Handling
+
+This part explores **event-driven programming and event handling** — covering different types of DOM events, how to listen for them, and practical exercises to apply event logic.
+Essential for building interactive web pages that respond to user input.
+
+### ✅ Topics Covered:
+- **DOMEvents** – Understanding event flow (bubbling & capturing) and the event object.
+- **mouseEvent** – Handling mouse events like `click`, `dblclick`, `mouseover`, and more.
+- **eventListener** – Using `addEventListener`, event options, and removing listeners.
+- **activity** – Practical exercises applying event handling concepts.
+- **thisEventListener** – Behavior of `this` inside event listeners and binding patterns.
+- **keyboardEvent** – Handling keyboard events (`keydown`, `keyup`, `keypress`).
+- **formEvent** – Managing form submissions, validation, and preventing default behavior.
+- **moreEvents** – Additional event types and real-world examples.
+
+---
+
+## 📘 Part-11: Asynchronous JavaScript & Debugging
+
+This part covers **asynchronous programming concepts and basic debugging** — exploring the call stack, debugging tools, callback patterns, and Promises for handling async operations.
+Essential for writing reliable, non-blocking JavaScript code and debugging runtime issues.
+
+### ✅ Topics Covered:
+- **JSCallStack** – Understanding the JavaScript call stack and execution order.
+- **breakpoints** – Using the debugger, breakpoints, and stepping through code.
+- **callbackHell** – Recognizing callback pyramids and strategies to avoid them.
+- **promises** – Working with Promises for clearer asynchronous control flow.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, DOM manipulation, events, and asynchronous JavaScript.
 Future updates will explore:
-- Asynchronous JavaScript
 - Advanced Web APIs
 - JavaScript Modules

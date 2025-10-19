@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.colorContainer {
+    height: 200px;
+    width: 500px;
+    border: solid black 1px;
+    margin: 10px auto;
+}
+

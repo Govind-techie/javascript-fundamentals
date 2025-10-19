@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="console.log('Button was clicked')">click me</button> <!-- Inline Event-->
+    <button class="btn">click me!</button>
+    <button class="btn2">button 2</button>
+
+    <hr>
+
+    <h2>Generated Color</h2>
+    <br>
+    <button class="colorBtn">Generate Color</button>
+    <br>
+    <div class="colorContainer">
+        This is your new generated color
+    </div>
+
+    <button class="bt">click me!</button>
+
+    <hr>
+
+    <input type="text" placeholder="type something">
+
+    <hr>
+
+    <form action="/action">
+        <input type="text" placeholder="username" class="userData">
+        <button>register</button>
+    </form>
+
+    <hr>
+
+    <!-- Input Event Example -->
+    <label for="liveInput">Live Input (input event):</label>
+    <input type="text" class="liveInput" placeholder="Type here to see live updates">
+
+    <br><br>
+
+    <!-- Change Event Example -->
+    <label for="finalInput">Final Input (change event):</label>
+    <input type="text" class="finalInput" placeholder="Type here and click away to trigger change">
+
+    <script src="08_moreEvents.js"></script>
+    
+    <script src="01_DOMEvents.js"></script>
+    <script src="02_mouseEvent.js"></script>
+    <script src="03_eventListener.js"></script>
+    <script src="04_activity.js"></script>
+    <script src="05_thisEventListener.js"></script>
+    <script src="06_keyboardEvent.js"></script>
+    <script src="07_formEvent.js"></script>
+</body>
+</html>
