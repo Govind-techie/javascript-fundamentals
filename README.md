@@ -171,7 +171,20 @@ Essential for writing reliable, non-blocking JavaScript code and debugging runti
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, DOM manipulation, events, and asynchronous JavaScript.
+## 📘 Part-12: Fetch API & Modern Async JavaScript
+
+This part explores **modern asynchronous patterns and API interactions** — covering async/await syntax, working with JSON data, and making HTTP requests.
+Essential for building applications that interact with external services and handle asynchronous operations elegantly.
+
+### ✅ Topics Covered:
+- **asyncFunctions** – Understanding and implementing async functions for cleaner asynchronous code.
+- **awaitKeyword** – Using the await keyword to handle Promises in a synchronous-looking way.
+- **JSON** – Working with JSON data format, parsing, and stringifying JavaScript objects.
+- **fetch** – Making HTTP requests using the Fetch API and handling responses.
+
+---
+
+📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, DOM manipulation, events, asynchronous JavaScript, and API interactions.
 Future updates will explore:
-- Advanced Web APIs
 - JavaScript Modules
+- Advanced Web APIs
