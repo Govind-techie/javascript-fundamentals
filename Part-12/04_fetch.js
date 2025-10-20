@@ -66,15 +66,36 @@ fetch(url)
 
 // Fetch with async and await
 
+// URL of the API we want to fetch data from
 let url2 = "https://catfact.ninja/fact";
 
+// Defining an asynchronous function to fetch data
 async function getFacts() {
     try {
+        // The 'await' keyword pauses the function until the Promise (fetch) is resolved
+        // 'fetch(url2)' sends a GET request to the provided URL
         let res = await fetch(url2);
+
+        // The response we get is a "Response" object (not the actual data yet)
+        // We use 'res.json()' to parse it into a usable JavaScript object
         let data = await res.json();
+
+        // Logs the full response object (useful for debugging and inspecting headers/status)
         console.log(res);
+
+        // Logs the parsed JSON data received from the API
         console.log(data);
     } catch(err) {
+        // If any network or parsing error occurs, it will be caught here
         console.log("Error: ", err);
     }
 }
+
+/*
+  Note:
+  - Using async/await makes asynchronous code look synchronous, improving readability.
+  - Always wrap fetch calls in try...catch blocks to handle potential errors.
+  - 'await fetch()' waits for the network response.
+  - 'await res.json()' waits for the response body to be fully read and converted to JSON.
+  - This approach is cleaner and more modern compared to chaining .then() and .catch().
+*/
