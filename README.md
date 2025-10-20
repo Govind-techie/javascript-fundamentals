@@ -184,7 +184,44 @@ Essential for building applications that interact with external services and han
 
 ---
 
-📌 **Note:** This repository covers fundamental JavaScript concepts including variables, control flow, arrays, loops, objects, functions, error handling, modern features, DOM manipulation, events, asynchronous JavaScript, and API interactions.
-Future updates will explore:
-- JavaScript Modules
-- Advanced Web APIs
+## 📘 Part-13: HTTP Libraries & Practice
+
+This part explores **alternative HTTP client libraries and practical applications** — covering Axios for making HTTP requests and building real-world examples.
+Essential for understanding different approaches to handling API interactions in JavaScript applications.
+
+### ✅ Topics Covered:
+- **axios** – Using the Axios library for making HTTP requests with enhanced features and cleaner syntax.
+- **activity** – Building practical applications that integrate HTTP requests and response handling.
+
+---
+
+## 📘 Mini Projects: Practical JavaScript Applications
+
+This section showcases **practical JavaScript implementations** — featuring interactive projects that combine various JavaScript concepts learned throughout the course.
+Essential for understanding how different JavaScript concepts work together in real-world applications.
+
+### ✅ Projects Included:
+- **eventBubbling** – Demonstrating event propagation through DOM hierarchy with practical examples.
+- **todoAppActivity** – Building a complete todo application with UI interactions and state management.
+- **simon-say-game** – Creating an interactive memory game implementing DOM manipulation, events, and game logic.
+
+---
+
+📌 **Journey Complete!** This repository documents my comprehensive journey through JavaScript fundamentals, covering:
+- Core JavaScript concepts (variables, data types, operators)
+- Control flow and program logic
+- Data structures (arrays, objects)
+- Functions and scope
+- Modern JavaScript features
+- DOM manipulation and events
+- Asynchronous programming
+- API interactions
+- Practical projects
+
+🎯 **Next Steps:**
+- React.js for frontend development
+- Node.js for backend development
+- Database technologies
+- Full-stack web development
+
+*Thank you for following my JavaScript learning journey — onward to mastering full-stack development!*
